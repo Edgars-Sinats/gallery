@@ -22,13 +22,13 @@ spacing: 10
 shuffle: false
 
 # Integer: Number of columns for square or columns
-columns: 4
+columns: 3
 
 # Integer: Max height for rows
 max_height: 400
 
 # Handle
-instagram: andy.fuji
+instagram: edgars_es
 
 ######################
 # END OF CONFIG CODE #
