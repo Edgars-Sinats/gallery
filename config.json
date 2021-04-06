@@ -1,0 +1,78 @@
+{
+  "Drone": [
+    {
+      "height": 1512,
+      "compressed_path": "./photos/Drone/DJI_0913_Moment.min.jpg",
+      "width": 2688,
+      "compressed": true,
+      "placeholder_path": "./photos/Drone/DJI_0913_Moment.placeholder.jpg",
+      "path": "./photos/Drone/DJI_0913_Moment.jpg"
+    },
+    {
+      "height": 2160,
+      "compressed_path": "./photos/Drone/DJI_0865_Moment.min.jpg",
+      "width": 3840,
+      "compressed": true,
+      "placeholder_path": "./photos/Drone/DJI_0865_Moment.placeholder.jpg",
+      "path": "./photos/Drone/DJI_0865_Moment.jpg"
+    },
+    {
+      "height": 2160,
+      "compressed_path": "./photos/Drone/DJI_0864_Moment.min.jpg",
+      "width": 3840,
+      "compressed": true,
+      "placeholder_path": "./photos/Drone/DJI_0864_Moment.placeholder.jpg",
+      "path": "./photos/Drone/DJI_0864_Moment.jpg"
+    },
+    {
+      "height": 2160,
+      "compressed_path": "./photos/Drone/DJI_0860_Moment.min.jpg",
+      "width": 3840,
+      "compressed": true,
+      "placeholder_path": "./photos/Drone/DJI_0860_Moment.placeholder.jpg",
+      "path": "./photos/Drone/DJI_0860_Moment.jpg"
+    },
+    {
+      "height": 1512,
+      "compressed_path": "./photos/Drone/DJI_0898_Moment.min.jpg",
+      "width": 2688,
+      "compressed": true,
+      "placeholder_path": "./photos/Drone/DJI_0898_Moment.placeholder.jpg",
+      "path": "./photos/Drone/DJI_0898_Moment.jpg"
+    },
+    {
+      "height": 1512,
+      "compressed_path": "./photos/Drone/DJI_0799_Moment.min.jpg",
+      "width": 2688,
+      "compressed": true,
+      "placeholder_path": "./photos/Drone/DJI_0799_Moment.placeholder.jpg",
+      "path": "./photos/Drone/DJI_0799_Moment.jpg"
+    },
+    {
+      "height": 720,
+      "compressed_path": "./photos/Drone/BirdEye_1080Facebook_Moment.min.jpg",
+      "width": 1280,
+      "compressed": true,
+      "placeholder_path": "./photos/Drone/BirdEye_1080Facebook_Moment.placeholder.jpg",
+      "path": "./photos/Drone/BirdEye_1080Facebook_Moment.jpg"
+    },
+    {
+      "height": 1512,
+      "compressed_path": "./photos/Drone/DJI_0932_Sala_aplisHight_Moment.min.jpg",
+      "width": 2688,
+      "compressed": true,
+      "placeholder_path": "./photos/Drone/DJI_0932_Sala_aplisHight_Moment.placeholder.jpg",
+      "path": "./photos/Drone/DJI_0932_Sala_aplisHight_Moment.jpg"
+    },
+    {
+      "height": 1512,
+      "compressed_path": "./photos/Drone/DJI_0911_Moment.min.jpg",
+      "width": 2688,
+      "compressed": true,
+      "placeholder_path": "./photos/Drone/DJI_0911_Moment.placeholder.jpg",
+      "path": "./photos/Drone/DJI_0911_Moment.jpg"
+    }
+  ],
+  "New folder": [],
+  "Winter": []
+}
